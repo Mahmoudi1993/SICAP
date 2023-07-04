@@ -1,1 +1,1 @@
-# SICAP
+# Self-reference
