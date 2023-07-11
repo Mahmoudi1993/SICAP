@@ -10,9 +10,6 @@ Data augmentation using Smart Image Cropping and Patching:
 Data augmentation using smart slicing is a data augmentation technique wherein we create a random subset of an original image. This helps our model generalize better because the object(s) of interest we want our models to learn are not always wholly visible in the image or the same scale in our training data.
 
 
-
-
-
 ![show_0](https://github.com/Mahmoudi1993/SICAP/assets/74957886/eaf94e67-4980-4898-9121-a3d2441953ff)
 
 ![show_3](https://github.com/Mahmoudi1993/SICAP/assets/74957886/918acf76-e567-4bc6-bbd0-55639ce7e5cc)
