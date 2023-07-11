@@ -11,6 +11,8 @@ Data augmentation using smart slicing is a data augmentation technique wherein w
 
 
 
+
+
 ![show_0](https://github.com/Mahmoudi1993/SICAP/assets/74957886/eaf94e67-4980-4898-9121-a3d2441953ff)
 
 ![show_3](https://github.com/Mahmoudi1993/SICAP/assets/74957886/918acf76-e567-4bc6-bbd0-55639ce7e5cc)
